@@ -1,0 +1,19 @@
+{
+  "name": "closures-y-scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloCstro/Closures-y-Scope.git"
+  },
+  "author": "Camilo Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamiloCstro/Closures-y-Scope/issues"
+  },
+  "homepage": "https://github.com/CamiloCstro/Closures-y-Scope#readme"
+}
